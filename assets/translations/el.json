@@ -1,0 +1,25 @@
+{
+  "general": {
+    "Greek": "Ελληνικά",
+    "English": "English",
+    "Search": "Search...",
+    "logout": "Logout"
+  },
+  "alerts": {
+    "confirmTitle": "Confirm"
+  },
+  "loginPage": {
+    "loginTitle": "welcome",
+    "loginButton": "login",
+    "emailPlaceholder": "Email or username",
+    "passwordPlaceholder": "Password",
+    "loginToYourAccount": "Συνδεθείτε στον λογαριασμό σας"
+  },
+  "headerPage": {
+    "setNotificationsAllReadTooltip": "Marks all your notification as read. They will be removed from that list, but you can find them on notifications page",
+    "setNotificationsAllRead": "Mark all as read",
+    "goToNotifications": "Visit notifications",
+    "Notifications": "Notifications",
+    "noNotificationsTooltip": "There are no new notifications"
+  }
+}
